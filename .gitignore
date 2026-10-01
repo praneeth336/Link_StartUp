@@ -31,3 +31,7 @@ pnpm-debug.log*
 # OS Generated Files
 .DS_Store
 Thumbs.db
+
+# Offline Database Files
+*.sqlite
+server/*.sqlite
